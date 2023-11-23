@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #fff6e6;
+    font-size: 12px;
+}
+
+h1 {
+    color: #E6E6FA;
+    line-height: 200%;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h2 {
+    color: #191970;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: .90em;
+    text-indent: 3em;
+    word-spacing: 2em;
+    color: brown;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+h2 {
+    background-color: RGB(255, 0, 255);
+}
+
+h3 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: chocolate;
+}
